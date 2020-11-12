@@ -1,0 +1,141 @@
+https://steamcommunity.com/sharedfiles/filedetails/?id=1421992660
+https://pingperfect.com/index.php/knowledgebase/318/Wreckfest--List-of-maps.html
+
+#DEMOLITION
+bigstadium_demolition_arena
+bigstadium_figure_8
+smallstadium_demolition_arena
+mudpit_demolition_arena
+grass_arena_demolition_arena
+field_derby_arena
+speedway2_classic_arena
+speedway2_demolition_arena
+
+
+#MIDWEST MOTOCENTER
+gravel1_main_loop
+gravel1_main_loop_rev
+
+
+#HILLTOP STADIUM
+speedway1_figure_8
+speedway1_oval
+
+#BIG VALLEY SPEEDWAY 
+speedway2_figure_8
+speedway2_inner_oval
+speedway2_outer_oval
+speedway2_oval_loop
+
+#SANDSTONE RACEWAY
+sandpit1_long_loop
+sandpit1_long_loop_rev
+sandpit1_short_loop
+sandpit1_short_loop_rev
+sandpit1_alt_loop
+sandpit1_alt_loop_rev
+
+#SAVOLAX SANDPIT
+sandpit2_2
+sandpit2_2_rev
+sandpit2_full_circuit
+sandpit2_full_circuit_rev
+
+#BOULDER BANK CIRCUIT
+sandpit3_long_loop
+sandpit3_long_loop_rev
+sandpit3_short_loop
+sandpit3_short_loop_rev
+
+#FIRE ROCK RACEWAY 
+tarmac1_main_circuit
+tarmac1_main_circuit_rev
+tarmac1_short_circuit
+tarmac1_short_circuit_rev
+
+#MOTORCITY CIRCUIT 
+tarmac2_main_circuit
+tarmac2_main_circuit_rev
+
+#ESPEDALEN RACEWAY 
+tarmac3_main_circuit
+tarmac3_main_circuit_rev
+tarmac3_short_circuit
+tarmac3_short_circuit_rev
+
+#FINNCROSS CIRCUIT 
+mixed1_main_circuit
+mixed1_main_circuit_rev
+
+#MAASTEN MOTOCENTER 
+mixed2_main_circuit
+mixed2_main_circuit_rev
+
+#PINEHILLS RACEWAY 
+mixed3_long_loop
+mixed3_long_loop_rev
+mixed3_short_loop
+mixed3_short_loop_rev
+
+#ROSENHEIM RACEWAY
+mixed4_main_circuit
+mixed4_main_circuit_rev
+
+#NORTHLAND RACEWAY
+mixed5_outer_loop 
+mixed5_outer_loop_rev
+mixed5_inner_loop
+mixed5_inner_loop_rev
+mixed5_free_route
+
+#FIRWOOD MOTOCENTER 
+mixed7_r1
+mixed7_r1_rev
+mixed7_r3
+mixed7_r3_rev
+
+#BLOOMFIELD SPEEDWAY 
+dirt_speedway_dirt_oval
+dirt_speedway_figure_8
+
+#CRASH CANYON 
+crash_canyon_main_circuit
+
+#BONEBREAKER VALLEY 
+bonebreaker_valley_main_circuit
+
+#CLAYRIDGE CIRCUIT 
+mixed9_r1
+mixed9_r1_rev
+
+#DEATHLOOP
+loop
+
+#DIRT DEVIL STADIUM
+triangle_r1
+triangle_r2
+
+#NORTHFOLK RING
+mixed8_r1
+mixed8_r2
+mixed8_r3_rev
+
+#DRYTOWN DESERT CIRCUIT 
+fields08_1
+fields08_1_rev
+
+#ROCKFIELD ROUGHSPOT 
+fields09_1
+
+#HELLRIDE
+urban06
+
+#THE MAW
+sandpit2_full_circuit
+sandpit2_full_circuit_rev
+
+#Tribend Raceway
+forest12_1
+
+#Vale Falls
+forest11_1
